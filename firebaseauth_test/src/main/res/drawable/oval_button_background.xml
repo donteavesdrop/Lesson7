@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-<!--    <solid android:color="#FF0000"/> &lt;!&ndash; Цвет кнопки &ndash;&gt;-->
-    <corners android:radius="50dp"/> <!-- Радиус закругления, можно настроить по своему усмотрению -->
-</shape>
