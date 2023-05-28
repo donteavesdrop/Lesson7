@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "Lesson7"
 include ':app'
 include ':httpurlconnection'
+include ':firebaseauth_test'
 include ':firebaseauth'
